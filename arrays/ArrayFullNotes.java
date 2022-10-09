@@ -6,43 +6,7 @@ public class ArrayFullNotes {
     -The data in the array is stored in contiguous memory locations
     -Array can store only homogeneous data
     -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure which stores a collection of data
-    -Array is a collection of similar data items
-    -Array is a collection of elements of same data type
-    -Array is a data structure
+    
     syntax of array:
     datatype[] variable_name = new datatype[size];
 
