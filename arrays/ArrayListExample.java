@@ -4,6 +4,7 @@ package com.arrays;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// file not be ArrayList!
 
 public class ArrayListExample {
     //Syntax:
